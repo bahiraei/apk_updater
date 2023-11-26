@@ -1,6 +1,6 @@
 name: apk_updater
 description: "Custom Apk Installer Package"
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/amitjha329/apk_updater
 repository: https://github.com/amitjha329/apk_updater
 
@@ -18,10 +18,6 @@ dev_dependencies:
     sdk: flutter
   flutter_lints: ^2.0.0
 
-# For information on the generic Dart part of this file, see the
-# following page: https://dart.dev/tools/pub/pubspec
-
-# The following section is specific to Flutter packages.
 flutter:
   plugin:
     platforms:

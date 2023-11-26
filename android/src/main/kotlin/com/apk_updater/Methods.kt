@@ -2,6 +2,7 @@ package com.apk_updater
 
 import io.flutter.plugin.common.MethodCall
 import io.flutter.plugin.common.MethodChannel
+import android.util.Log
 
 internal class MethodCallHandler(private val installer: Installer) : MethodChannel.MethodCallHandler {
     companion object {
