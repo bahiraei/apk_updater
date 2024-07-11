@@ -1,4 +1,4 @@
-## 0.0.4
+## 0.1.0
 
 * Update To Have SDK 35 and AGP Upgrade
 
